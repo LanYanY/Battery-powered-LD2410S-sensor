@@ -1,5 +1,4 @@
 # Battery-powered-LD2410S-sensor
-/*
  * Project: Human Presence Sensor with LD2410S
  * Hardware: Lolin 32 Lite
  * Framework: Arduino IDE
@@ -35,4 +34,4 @@
  * 3. 连接该热点并配置WiFi信息
  * 4. 正常工作后，检测到人体存在时会通过MQTT发送状态
  * 5. 设备支持深度睡眠以节省电量
- */
+
