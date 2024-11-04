@@ -1,10 +1,10 @@
 # Battery-powered-LD2410S-sensor
 
-###  Project: Human Presence Sensor with LD2410S
+*Project*: Human Presence Sensor with LD2410S
 
-### Hardware: Lolin 32 Lite 
+*Hardware*: Lolin 32 Lite 
 
-### Framework: Arduino IDE
+*Framework*: Arduino IDE
 
 ## Description
 这是一个基于ESP32和LD2410S毫米波雷达传感器的人体存在检测设备。
