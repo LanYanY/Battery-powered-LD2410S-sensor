@@ -44,7 +44,7 @@
 #define DEBUG 0
 
 // 巴法云配置
-#define UID "dee57b65097742f889dd27390595cf2b" // 用户私钥
+#define UID "your uid" // 用户私钥
 const char *topic = "LD2410S007";              // 主题名字
 const char *api_url = "http://apis.bemfa.com/va/postmsg";
 
